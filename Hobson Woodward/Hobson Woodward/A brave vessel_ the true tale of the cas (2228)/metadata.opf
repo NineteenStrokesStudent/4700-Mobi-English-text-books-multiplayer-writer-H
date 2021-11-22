@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4041da3b-1e86-43d3-be99-c5b77a8b9f94</dc:identifier>
+        <dc:title>A brave vessel: the true tale of the castaways who rescued Jamestown and inspired Shakespeare's The tempest</dc:title>
+        <dc:creator opf:file-as="Woodward, Hobson" opf:role="aut">Hobson Woodward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-09T03:55:03.288000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A gripping tale of shipwreck and survival that changed the fate of the colonies and enriched our literary legacy**
+
+
+
+In 1609, aspiring writer William Strachey set sail aboard the *Sea Venture*, bound for the New World. Caught in a hurricane, the ship separated from its fleet and wrecked on uninhabited Bermuda, a bountiful island paradise its passengers would inhabit for nearly a year before reaching their intended destination, the famine-stricken colony of Jamestown. Strachey's meticulous account of the wreck, the castaways' time on Bermuda, and their arrival in a devastated Jamestown was read by his contemporaries and remains among the most vivid writings of the early colonial period. Following the life of this ordinary man, Hobson Woodward tells one of the neglected but defining stories of America's founding.
+
+
+
+ Strachey had literary aspirations and sought to capitalize on his epic experience, but his writings did not bring him the acclaim he sought. Only in the hands of *another* William would his tale of the wreck and its aftermath make history as *The Tempest*.* A Brave Vessel* is the fascinating account of a near-miss in the settling of Virginia, the true story behind one of Shakespeare's great plays, and the tragedy of the man who failed as an author but who contributed to the creation of a masterpiece.</dc:description>
+        <dc:publisher>Viking</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670020966</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T03:53:39.284000+00:00" name="calibre:timestamp"/>
+        <meta content="brave vessel: the true tale of the castaways who rescued Jamestown and inspired Shakespeare's The tempest, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

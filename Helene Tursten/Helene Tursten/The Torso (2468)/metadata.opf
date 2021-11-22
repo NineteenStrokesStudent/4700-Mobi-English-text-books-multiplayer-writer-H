@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">087916f4-f02a-4db3-8e0c-4b9064acebb5</dc:identifier>
+        <dc:title>The Torso</dc:title>
+        <dc:creator opf:file-as="Tursten, Helene" opf:role="aut">Helene Tursten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-01T01:28:36.126000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+“The scenes in which Huss tracks her killer through the underbelly of Copenhagen are as good as Louise Welsh’s similarly creepy tour of Glasgow in *The Cutting Room.*”—*Entertainment Weekly* 
+
+“[Tursten] is a master at setting the scene, detailing a foreign milieu until it feels familiar. She juggles a large cast of characters with aplomb.”—*Time Out Chicago* 
+
+“One of the better examples of the Swedish crime fiction invasion.”—*Baltimore Sun* 
+
+“Outstanding.”—*Publishers Weekly* (starred review)  
+
+“Spins a good story . . . this is a solid police procedural.”—*Library Journal* 
+
+Part of a human torso washes up on a beach near Göteborg, Sweden. It is so mutilated that gender is only established by DNA testing. A similar crime, now several years old, remains unsolved in Denmark. Detective Inspector Irene Huss is dispatched to Copenhagen to liaise with police. Then a third corpse is discovered. This time it’s identified. It is a girl Detective Huss knew; she had been asked by the girl’s mother to locate her missing daughter. A fourth victim, the son of a woman heading the Copenhagen crime squad, is also known to Huss. She fears the killer is tracking her, killing people with whom she is connected. There is even a chilling suggestion that he or she is one of her colleagues.  
+
+ **Helene Tursten** has been compared to P.D. James in her native Sweden. Her Irene Huss mysteries have been highly praised. She lives in Göteborg, where she was born in 1954.</dc:description>
+        <dc:publisher>Soho Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781569474532</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Det. Inspector Huss" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-25T01:13:46.918000+00:00" name="calibre:timestamp"/>
+        <meta content="Torso, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

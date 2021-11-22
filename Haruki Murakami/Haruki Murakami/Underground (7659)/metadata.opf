@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">554ae370-fed0-4f66-8e20-6ddba154b71b</dc:identifier>
+        <dc:title>Underground</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki &amp; Birnbaum, Alfred &amp; Gabriel, Philip" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:creator opf:file-as="Murakami, Haruki &amp; Birnbaum, Alfred &amp; Gabriel, Philip" opf:role="aut">Alfred Birnbaum</dc:creator>
+        <dc:creator opf:file-as="Murakami, Haruki &amp; Birnbaum, Alfred &amp; Gabriel, Philip" opf:role="aut">Philip Gabriel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-10T17:50:19.365000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;On March 20, 1995, followers of the religious cult Aum Shinrikyo unleashed lethal sarin gas into cars of the Tokyo subway system. Many died, many more were injured. This is acclaimed Japanese novelist Murakami's (The Wind-Up Bird Chronicle, etc.) nonfiction account of this episode. It is riveting. What he mostly does here, however, is listen to and record, in separate sections, the words of both victims, people who "just happened to be gassed on the way to work," and attackers. The victims are ordinary people bankers, businessmen, office workers, subway workers who reflect upon what happened to them, how they reacted at the time and how they have lived since. Some continue to suffer great physical disabilities, nearly all still suffer great psychic trauma. There is a Rashomon-like quality to some of the tales, as victims recount the same episodes in slightly different variations. Cumulatively, their tales fascinate, as small details weave together to create a complex narrative. The attackers are of less interest, for what they say is often similar, and most remain, or at least do not regret having been, members of Aum. As with the work of Studs Terkel, which Murakami acknowledges is a model for this present work, the author's voice, outside of a few prefatory comments, is seldom heard. He offers no grand explanation, no existential answer to what happened, and the book is better for it. This is, then, a compelling tale of how capriciously and easily tragedy can destroy the ordinary, and how we try to make sense of it all. (May 1)Forecast: Publication coincides with the release of a new novel by Murakami (Sputnik Sweetheart, Forecasts, Mar. 19), and several national magazines, including Newsweek and GQ, will be featuring this fine writer. This attention should help Murakami's growing literary reputation. 
+&lt;/p&gt;
+&lt;p&gt;Copyright 2001 Cahners Business Information, Inc.
+&lt;/p&gt;
+
+&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;The deadly Tokyo subway poison gas attack, perpetrated by members of the Aum Shinrikyo cult on March 20, 1995, was the fulfillment of every urban straphanger's nightmare. Through interviews with several dozen survivors and former members of Aum, novelist Murakami (The Wind-Up Bird Chronicle) presents an utterly compelling work of reportage that lays bare the soul of contemporary Japan in all its contradictions. The sarin attack exposed Tokyo authorities' total lack of preparation to cope with such fiendish urban terrorism. More interesting, however, is the variety of reactions among the survivors, a cross-section of Japanese citizens. Their individual voices remind us of the great diversity within what is too often viewed from afar as a homogeneous society. What binds most of them is their curious lack of anger at Aum. Chilling, too, is the realization that so many Aum members were intelligent, well-educated persons who tried to fill voids in their lives by following Shoko Asahara, a mad guru who promised salvation through total subordination to his will. For all public and academic libraries. Steven I. Levine, Univ. of Montana, Missoula &lt;br /&gt;
+Copyright 2001 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Vintage International</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375725807</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:35:07.338000+00:00" name="calibre:timestamp"/>
+        <meta content="Underground" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

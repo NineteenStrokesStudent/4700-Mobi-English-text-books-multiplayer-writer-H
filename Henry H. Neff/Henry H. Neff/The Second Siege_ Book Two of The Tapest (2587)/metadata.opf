@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c82b690a-b6b1-4938-89a3-fb74af5f5597</dc:identifier>
+        <dc:title>The Second Siege: Book Two of The Tapestry</dc:title>
+        <dc:creator opf:file-as="Neff, Henry H." opf:role="aut">Henry H. Neff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-15T07:39:50.185000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*A fast-paced, genre-blending adventure—now in paperback! *The Tapestry series continues to weave threads of fantasy, mythology, science fiction, and mystery into a wholly original adventure that appeals to fans of everything from Harry Potter to Lord of the Rings to The X-Men. Genre-blending and fully illustrated, The Tapestry novels have caught the attention of middle-grade and young adult readers alike—and the series is only getting bigger.In this second book of the series, grave forces are converging  to seize control of the Book of Thoth, a hidden artifact whose pages hold the key  to creating—or unraveling—the very threads of existence. Max McDaniels and David Menlo embark on a quest  to protect the book from the demon Astaroth, who would exploit its secrets with dire  consequence. And with Astaroth free after centuries of imprisonment, the world outside  Rowan’s gates has already become hostile.  Far from home, cut off behind enemy lines,  Max and his allies must journey across Europe, descend into the fabled Frankfurt  Workshop, brave the tangled corners of the Black Forest . . . and cross beyond the  veils of our very world.  “After devouring this title, young fans will be clamoring  for more.”*—Kirkus Reviews*Visit www.rowanacademy.com for original content, exclusive artwork, and more!</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375892363</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Children's Books</dc:subject>
+        <meta content="The Tapestry" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-06T23:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Second Siege: Book Two of The Tapestry, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Children's Books&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac75823a-ab86-476c-92b4-55386dd6e2fa</dc:identifier>
+        <dc:title>Caught</dc:title>
+        <dc:creator opf:file-as="Coben, Harlan" opf:role="aut">Harlan Coben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T20:49:11.231000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**From the #1 *New York Times* bestselling master of suspense comes a fast-paced, emotion-packed novel about guilt, grief, and our capacity to forgive** 
+
+
+
+    17-year-old Haley McWaid is a good girl, the pride of her suburban New Jersey family, captain of the lacrosse team, headed off to college next year with all the hopes and dreams her doting parents can pin on her. Which is why, when her mother wakes one morning to find that Haley never came home the night before, and three months quickly pass without word from the girl, the community assumes the worst. 
+
+
+
+    Wendy Tynes is a reporter on a mission, to identify and bring down sexual predators via elaborate—and nationally televised—sting operations. Working with local police on her news program Caught in the Act, Wendy and her team have publicly shamed dozens of men by the time she encounters her latest target. Dan Mercer is a social worker known as a friend to troubled teens, but his story soon becomes more complicated than Wendy could have imagined. 
+
+
+
+    In a novel that challenges as much as it thrills, filled with the astonishing tension and unseen suburban machinations that have become Coben’s trademark, *Caught* tells the story of a missing girl, the community stunned by her loss, the predator who may have taken her, and the reporter who suddenly realizes she can’t trust her own instincts about this story—or the motives of the people around her.
+
+
+
+    Praise for *Long Lost*: 
+
+
+
+    "Coben is one of the best authors around at writing page-turning suspense, as   *Long Lost* makes clear." 
+
+  -*Chicago Sun-Times* 
+
+
+
+    "Roller-coaster plot and savvy dialogue...All the ingredients of a good old-  fashioned thriller: murder, action and wit." 
+
+  -*New York Daily News*</dc:description>
+        <dc:publisher>Dutton</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525951582</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-26T17:18:14.653000+00:00" name="calibre:timestamp"/>
+        <meta content="Caught" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

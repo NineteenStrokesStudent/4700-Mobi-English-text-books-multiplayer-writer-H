@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c83591bd-5e4c-441c-a7d9-9df91c15adfc</dc:identifier>
+        <dc:title>Lovecraft's Fiction Volume I, 1905-1925</dc:title>
+        <dc:creator opf:file-as="Lovecraft, Howard Phillips" opf:role="aut">Howard Phillips Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-03T08:00:00+00:00</dc:date>
+        <dc:description>The Beast in the Cave
+The Alchemist
+The Tomb
+Dagon
+A Reminiscence Of Dr. Samuel Johnson
+Sweet Ermengarde or, The Heart of a Country Girl
+Polaris
+The Green Meadow
+Beyond the Wall of Sleep
+Memory
+Old Bugs
+The Transition of Juan Romero
+The White Ship
+The Doom That Came to Sarnath
+The Statement of Randolph Carter
+The Terrible Old Man
+The Tree
+The Cats of Ulthar
+The Temple
+Facts Concerning the Late Arthur Jermyn and His Family
+The Street
+Poetry and the Gods
+Celephais
+From Beyond
+Nyarlathotep
+The Picture in the House
+The Crawling Chaos
+Ex Oblivione
+The Nameless City
+The Quest of Iranon
+The Moon-Bog
+The Outsider
+The Other Gods
+The Music OF Erich Zann
+Herbert West: Reanimator
+Hypnos
+What the Moon Brings
+Azathoth
+The Horror at MartinÆs Beach
+The Hound
+The Lurking Fear
+The Rats in the Walls
+The Unnamable
+The Festival
+The Shunned House
+The Horror at Red Hook
+He
+In The Vault
+The Loved Dead
+Under the Pyramids</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="Lovecraft's Fiction" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-15T20:45:05.062000+00:00" name="calibre:timestamp"/>
+        <meta content="Lovecraft's Fiction Volume I, 1905-1925" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

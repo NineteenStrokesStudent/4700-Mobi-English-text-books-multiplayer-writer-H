@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c26b1e0c-72e5-4cfb-bca1-115afbb5efb3</dc:identifier>
+        <dc:title>Brave Girl Eating: A Family's Struggle with Anorexia</dc:title>
+        <dc:creator opf:file-as="Brown, Harriet" opf:role="aut">Harriet Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+I've never had anorexia, but I know it well. I see it on the street, in the gaunt and sunken face, the bony chest, the spindly arms of an emaciated woman. I've come to recognize the flat look of despair, the hopelessness that follows, inevitably, from years of starvation. I think: "That could have been my daughter." It wasn't. It's not. If I have anything to say about it, it won't be.  Millions of families are affected by eating disorders, which usually strike young women between the ages of fourteen and twenty. But current medical practice ties these families' hands when it comes to helping their children recover. Conventional medical wisdom dictates separating the patient from the family and insists that "it's not about the food," even as a family watches a child waste away before their eyes. Harriet Brown shows how counterproductive--and heartbreaking--this approach is by telling her daughter's story of anorexia. She describes how her family, with the support of an open-minded pediatrician and a therapist, helped her daughter recover using family-based treatment, also known as the Maudsley approach.  Chronicling her daughter Kitty's illness from the earliest warning signs, through its terrifying progression, and on toward recovery, Brown takes us on one family's journey into the world of anorexia nervosa, where starvation threatened her daughter's body and mind. But hope and love--of the ordinary, family-focused kind--shine through every decision and action she and her family took. "Brave Girl Eating" is essential reading for families and professionals alike, a guiding light for anyone who's coping with this devastating disease.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061725470</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T23:08:46.108000+00:00" name="calibre:timestamp"/>
+        <meta content="Brave Girl Eating: A Family's Struggle with Anorexia" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

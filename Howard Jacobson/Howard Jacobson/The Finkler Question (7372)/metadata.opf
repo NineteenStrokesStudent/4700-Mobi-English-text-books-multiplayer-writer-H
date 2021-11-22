@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf297ddc-8fed-48c3-920b-f20fc627bbc5</dc:identifier>
+        <dc:title>The Finkler Question</dc:title>
+        <dc:creator opf:file-as="Jacobson, Howard" opf:role="aut">Howard Jacobson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-02T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+'He should have seen it coming. His life had been one mishap after another. So he should have been prepared for this one...' Julian Treslove, a professionally unspectacular former BBC radio producer, and Sam Finkler, a popular Jewish philosopher, writer and television personality, are old school friends. Despite a prickly relationship and very different lives, they've never quite lost touch with each other - or with their former teacher, Libor Sevick, a Czech always more concerned with the wider world than with exam results. &gt;Now, both Libor and Finkler are recently widowed, and with Treslove, his chequered and unsuccessful record with women rendering him an honorary third widower, they dine at Libor's grand, central London apartment. It's a sweetly painful evening of reminiscence in which all three remove themselves to a time before they had loved and lost; a time before they had fathered children, before the devastation of separations, before they had prized anything greatly enough to fear the loss of it. Better, perhaps, to go through life without knowing happiness at all because that way you have less to mourn? Treslove finds he has tears enough for the unbearable sadness of both his friends' losses. And it's that very evening, at exactly 11:30 pm, as Treslove, walking home, hesitates a moment outside the window of the oldest violin dealer in the country, that he is attacked. And after this, his whole sense of who and what he is will slowly and ineluctably change. The Finkler Questionis a scorching story of friendship and loss, exclusion and belonging, and of the wisdom and humanity of maturity. Funny, furious, unflinching, this extraordinary novel shows one of our finest writers at his brilliant best.</dc:description>
+        <dc:publisher>Bloomsbury Publishing Plc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781408808870</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-12T21:22:29.530000+00:00" name="calibre:timestamp"/>
+        <meta content="Finkler Question, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

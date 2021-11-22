@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d8d53ee-1808-4903-9a7f-d0b7916f9f44</dc:identifier>
+        <dc:title>The great shark hunt: strange tales from a strange time</dc:title>
+        <dc:creator opf:file-as="Thompson, Hunter S." opf:role="aut">Hunter S. Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-12-15T11:10:32.581000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In addition to being a testament to the undeniably beatifying properties of American excess--literary, political, chemical, you name it--Hunter Thompson is the high priest of the ad hominem attack. Anyone unlucky enough to get in the way of his satirical sledgehammer will end up with soup for brains. Still, even Thompson needs a good villain to get properly lathered up; that's why he peaked simultaneously with America's 37th president, Richard Milhous Nixon. Tricky Dick was Thompson's dark-jowled, pale-calved Muse, and with his departure Thompson seemed to lose his place a bit. Swatting flies with a baseball bat. You need look no further for this writer's best: this collection of pieces, first published in 1979, spans all of Thompson's primo era, including short pieces and selections from longer works. The Great Shark Hunt sports a few articles filed by a pre-Gonzo Hunter S. Thompson, which show flickers of passion but no real fire; the first experiments with the author's drug-fueled brand of journalism at the Kentucky Derby; and finally the gigs that made him an American institution, in Las Vegas and on the 1972 campaign trail. Thompson's style is so unique that a reader is tempted to think that he leapt, fully formed, into Gonzohood. However, along with the crazy, careening prose itself, one of the auxiliary pleasures of The Great Shark Hunt is the map that it gives of Thompson's ascent (or descent, if you prefer) from the workaday hyperbole of sports writing to the hell-blast vigor of his later work. The drugs are, by and large, a distraction--lifestyle points that get in the way of the genuinely perceptive journalism that Thompson created. (But they are there, always, and in quantity.) If you're looking for insight into the underbelly of America, Hunter S. Thompson is your best and only guide, and The Great Shark Hunt is an excellent place to begin the grim safari. --Michael Gerber</dc:description>
+        <dc:publisher>Warner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446314404</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="The Gonzo Papers" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-10T20:21:43.765853+00:00" name="calibre:timestamp"/>
+        <meta content="great shark hunt: strange tales from a strange time, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

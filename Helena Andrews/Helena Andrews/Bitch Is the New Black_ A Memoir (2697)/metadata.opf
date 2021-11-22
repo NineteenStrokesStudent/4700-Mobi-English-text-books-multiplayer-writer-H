@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1afc4a5-ea5a-4e0c-83f8-3003005924cb</dc:identifier>
+        <dc:title>Bitch Is the New Black: A Memoir</dc:title>
+        <dc:creator opf:file-as="Andrews, Helena" opf:role="aut">Helena Andrews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T04:42:57.239000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Meet Helena Andrews, sassy, single, smart, and, yes, a bitch—but Tina Fey said it best, bitch is the new black!  
+
+ When Helena Andrews heard this declaration on *Saturday Night Live*, her first reaction was How daaare you? But after a commercial break and some thought, she decided to poke at the stereotype that says "successful" and "bitch" are synonyms. Unafraid and frank, she comes to realize that being a bitch is sometimes the best way to be—except, of course, when it's not.  
+
+ *Bitch Is the New Black* follows Andrews—sexy, single, and a self-described smart-ass—on her trip from kidnapped daughter of a lesbian to Washington, D.C., political reporter who can't remember a single senator's name. Told in Andrews's singular voice, this addictive memoir explores the roller coaster of being educated and single while trying to become an "actual adult" and find love.  
+
+ In these candid yet heartfelt essays, she chronicles that ride from beginning to end: a childhood spent on an all-white island, escaping via episodes of *The Cosby Show*; being set up with Obama's "body guy" Reggie Love by Maureen Dowd; and the shocking suicide of a best friend. Through it all, Andrews and her gang of girlfriends urge each other to "keep it moving." But no one can stay strong all the time—not even the women we believe do so without trying.  
+
+ As Andrews says, "Despite the fact that the most recognizable woman in the United States is black, popular culture still hasn't moved past the only adjective apparently meant to describe us— "strong." She is also flawed, tired, naive, greedy, gutsy, frightened, and kind: secret sides that come out in honest detail here.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061778827</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-29T04:37:59.096000+00:00" name="calibre:timestamp"/>
+        <meta content="Bitch Is the New Black: A Memoir" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
